@@ -10,11 +10,13 @@
 
 ## 구조
 
+```plaintext
 chapters/
 ├─ NN-챕터제목/
-│ ├─ username.md
-│ ├─ username.md
-│ └─ username.md
+│  ├─ username.md
+│  ├─ username.md
+│  └─ username.md
+```
 
 - `NN`은 챕터 번호 (01, 02, …)
 - 파일 이름은 본인 GitHub ID로 고정
