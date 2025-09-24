@@ -15,8 +15,8 @@ NN-week/
 ├─ MM-chapter/
 │  ├─ username.md
 │  ├─ username.md
-│  ├─ username.md
-│  └─ 발표자.md
+│  └─ username.md
+│
 ```
 
 - `NN`은 주차 (01, 02, …)
@@ -38,7 +38,7 @@ NN-week/
 - 스터디는 매주 월요일에 진행하며, 발표자는 다음 주에 자율적으로 발표를 진행합니다.
 - 발표 전에 공부한 내용을 PR로 올립니다.
 - 챕터 관련 질문은 발표자 모르게 준비합니다.
-- 질문은 월요일 스터디가 끝난 후, PR 리뷰에 남겨 기록합니다.
+- 질문은 월요일 스터디가 끝난 후, [Wiki](https://github.com/DeepDive-JS/deep-dive-js-notes/wiki)에 남겨 기록합니다.
 
 ## 챕터
 
